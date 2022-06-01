@@ -3,7 +3,6 @@
 - I'm Luca Di Domenico, 28 y/o.
 - 👨‍💻 I'm a employed as Application Security Consultant and I'm also a Freelance Web3/Blockchain Developer.
 - ⚒️ As a developer, I mainly work with Python, JavaScript and Solidity on a daily basis.
-- 🌱 I'm part of the https://app.buildspace.so/ community.
 - 🏡 Currently living in the beautiful city of Turin in Italy.
 - 📫 How to reach me:
    - Email: luca.didomenico@protonmail.com
